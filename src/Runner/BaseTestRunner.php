@@ -105,7 +105,7 @@ abstract class PHPUnit_Runner_BaseTestRunner
 
         $this->clearStatus();
 
-        return $test;
+        return $test1;
     }
 
     /**
